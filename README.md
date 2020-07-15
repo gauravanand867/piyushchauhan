@@ -4,7 +4,7 @@
 <br/>
 
 <a href="https://www.facebook.com/piyushchauhaniitp/">
-  <img align="left" alt="Piyush Chauhan| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Piyush Chauhan| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://twitter.com/ErPiyushChauhan">
   <img align="left" alt="Piyush Chauhan| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
